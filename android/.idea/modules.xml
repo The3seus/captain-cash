@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CaptainCash.iml" filepath="$PROJECT_DIR$/CaptainCash.iml" group="CaptainCash" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-community/geolocation/android/android-react-native-community_geolocation.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-community/geolocation/android/android-react-native-community_geolocation.iml" group="CaptainCash/react-native-community_geolocation" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-fast-image/android/android-react-native-fast-image.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/android-react-native-fast-image.iml" group="CaptainCash/react-native-fast-image" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-fbsdk/android/android-react-native-fbsdk.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-fbsdk/android/android-react-native-fbsdk.iml" group="CaptainCash/react-native-fbsdk" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-firebase/android/android-react-native-firebase.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-firebase/android/android-react-native-firebase.iml" group="CaptainCash/react-native-firebase" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/android-react-native-splash-screen.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/android-react-native-splash-screen.iml" group="CaptainCash/react-native-splash-screen" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/android-react-native-vector-icons.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/android-react-native-vector-icons.iml" group="CaptainCash/react-native-vector-icons" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="CaptainCash/app" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-community/geolocation/android/react-native-community_geolocation.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-community/geolocation/android/react-native-community_geolocation.iml" group="captain-cash/react-native-community_geolocation" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-fast-image/android/react-native-fast-image.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/react-native-fast-image.iml" group="captain-cash/react-native-fast-image" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-fbsdk/android/react-native-fbsdk.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-fbsdk/android/react-native-fbsdk.iml" group="captain-cash/react-native-fbsdk" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-firebase/android/react-native-firebase.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-firebase/android/react-native-firebase.iml" group="captain-cash/react-native-firebase" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-image-crop-picker/android/react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-image-crop-picker/android/react-native-image-crop-picker.iml" group="CaptainCash/react-native-image-crop-picker" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-interactable/lib/android/react-native-interactable.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-interactable/lib/android/react-native-interactable.iml" group="CaptainCash/react-native-interactable" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/react-native-splash-screen.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/react-native-splash-screen.iml" group="captain-cash/react-native-splash-screen" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" group="captain-cash/react-native-vector-icons" />
+    </modules>
+  </component>
+</project>
