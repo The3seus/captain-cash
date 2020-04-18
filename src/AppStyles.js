@@ -5,12 +5,12 @@ const WINDOW_WIDTH = Dimensions.get("window").width;
 const WINDOW_HEIGHT = Dimensions.get("window").height;
 
 const _colorSet = {
-  mainThemeBackgroundColor: "#2f2d32",
+  mainThemeBackgroundColor: "#e1dce0",
   mainThemeForegroundColor: "#d4b44a",
-  mainTextColor: "#464646",
-  mainSubtextColor: "#7c7c7c",
+  mainTextColor: "black",
+  mainSubtextColor: "black",
   hairlineColor: "#d6d6d6",
-  grayBgColor: "#f5f5f5",
+  grayBgColor: "#e1dce0",
   onlineMarkColor: "#41C61B",
   inputBgColor: "rgba(0.9, 0.9, 0.9, 0.1)"
 };

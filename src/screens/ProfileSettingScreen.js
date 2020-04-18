@@ -261,7 +261,7 @@ class ProfileSettingScreen extends Component {
           hidden={false}
           backgroundColor={Platform.OS == "ios" ? "white" : "black"}
           barStyle={Platform.OS == "ios" ? "dark-content" : "light-content"}/>
-        <SafeAreaView style={{ flex: 1, backgroundColor: "white" }}>
+        <SafeAreaView style={{ flex: 1, backgroundColor: "#D4B44A" }}>
           <View style={styles.MainContainer}>
             <CustomTabBar
               id={0}
@@ -361,7 +361,7 @@ class ProfileSettingScreen extends Component {
                     style={{
                       width: 25,
                       height: 25,
-                      tintColor: "#687cf0",
+                      tintColor: "#d51495",
                       resizeMode: "cover"
                     }}
                     source={AppStyles.iconSet.account}/>
@@ -378,7 +378,7 @@ class ProfileSettingScreen extends Component {
                     style={{
                       width: 25,
                       height: 25,
-                      tintColor: "#484361",
+                      tintColor: "#d51495",
                       resizeMode: "cover"
                     }}
                     source={AppStyles.iconSet.setting}/>
@@ -386,23 +386,7 @@ class ProfileSettingScreen extends Component {
                 <View style={styles.textView}>
                   <Text style={styles.textLabel}>Settings</Text>
                 </View>
-              </TouchableOpacity>
-              <TouchableOpacity
-                style={styles.optionView}
-                onPress={this.contact.bind(this)}>
-                <View style={styles.iconView}>
-                  <Image
-                    style={{
-                      width: 25,
-                      height: 25,
-                      tintColor: "#88e398",
-                      resizeMode: "cover"
-                    }}
-                    source={AppStyles.iconSet.callIcon}/>
-                </View>
-                <View style={styles.textView}>
-                  <Text style={styles.textLabel}>Contact Us</Text>
-                </View>
+
               </TouchableOpacity>
               <TouchableOpacity
                 style={styles.logoutView}

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/hiveforensics/Downloads/captain-cash-master/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml",
+            "outputFile": "/home/hiveforensics/captain-cash-master/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml",
             "map": [
                 {
                     "source": "/home/hiveforensics/.gradle/caches/transforms-2/files-2.1/35926ac475dd81cc5b85a94ab440af04/res/values-sl/values.xml",

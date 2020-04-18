@@ -85,7 +85,7 @@ const styles = StyleSheet.create({
   },
   signupContainer: {
     width: AppStyles.sizeSet.buttonWidth,
-    backgroundColor: AppStyles.colorSet.mainThemeBackgroundColor,
+    backgroundColor: "#2f2d32",
     borderRadius: AppStyles.sizeSet.radius,
     padding: 15,
     borderWidth: 1,

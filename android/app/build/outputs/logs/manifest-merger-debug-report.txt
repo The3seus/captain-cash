@@ -1,19 +1,19 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:1:1-61:12
-INJECTED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:1:1-61:12
-INJECTED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:1:1-61:12
-INJECTED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:1:1-61:12
-MERGED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:1:1-61:12
-MERGED from [:react-native-firebase] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
-MERGED from [:react-native-interactable] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-interactable/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-18:12
-MERGED from [:react-native-fast-image] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-splash-screen] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
-MERGED from [:react-native-community_geolocation] /home/hiveforensics/Downloads/captain-cash-master/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-fbsdk] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:1-28:12
-MERGED from [:react-native-image-crop-picker] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-28:12
-MERGED from [:react-native-vector-icons] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.react:react-native:0.61.4] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/25e4fad9f2ec7620ec6d403e0e1f2d28/AndroidManifest.xml:2:1-13:12
+ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:1:1-61:12
+INJECTED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:1:1-61:12
+INJECTED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:1:1-61:12
+INJECTED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:1:1-61:12
+MERGED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:1:1-61:12
+MERGED from [:react-native-firebase] /home/hiveforensics/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-interactable] /home/hiveforensics/captain-cash-master/node_modules/react-native-interactable/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-18:12
+MERGED from [:react-native-fast-image] /home/hiveforensics/captain-cash-master/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-splash-screen] /home/hiveforensics/captain-cash-master/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-community_geolocation] /home/hiveforensics/captain-cash-master/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-fbsdk] /home/hiveforensics/captain-cash-master/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:1-28:12
+MERGED from [:react-native-image-crop-picker] /home/hiveforensics/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-28:12
+MERGED from [:react-native-vector-icons] /home/hiveforensics/captain-cash-master/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.4] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/42ed0d88350cfee9037bba11098b6e47/AndroidManifest.xml:2:1-13:12
 MERGED from [com.facebook.android:facebook-login:5.15.3] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/0dbeb45fa63ed416d6f181304c6cc951/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-share:5.15.3] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/907bb1865739b97b8e657efeae9ca762/AndroidManifest.xml:21:1-31:12
 MERGED from [com.github.yalantis:ucrop:2.2.2-native] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/b9ade840f7b6eccc863210d2e5d5490b/AndroidManifest.xml:2:1-11:12
@@ -33,7 +33,7 @@ MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/hiveforensics/.gradl
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/43c9781626f2afec7d5b7f38b150e207/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/35926ac475dd81cc5b85a94ab440af04/AndroidManifest.xml:17:1-29:12
 MERGED from [me.leolin:ShortcutBadger:1.1.21] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/4349c77f0e4d7ad14b8efc1f6a5e13e8/AndroidManifest.xml:2:1-52:12
-MERGED from [org.webkit:android-jsc:r245459] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/d19a9d63c5c05364708d08e24f516fde/AndroidManifest.xml:2:1-11:12
+MERGED from [org.webkit:android-jsc:r245459] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/909b2e58b2efbb8d1b86f1b27776fd90/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/bc1840914329ffefcbe8dc562a240df7/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.multidex:multidex:2.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/b9414536de47ecc6d8a3568069c35170/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-common:18.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/12c0b59dfc015989caba5da21b06dc22/AndroidManifest.xml:2:1-19:12
@@ -92,30 +92,30 @@ MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/hiveforensics/.
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/7d0e6a6131e5b6008ffe903d78156595/AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.installreferrer:installreferrer:1.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/de0ba5442224a759ddb8933c9e022a8b/AndroidManifest.xml:2:1-13:12
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/abde4ae9409f6b487c87878eca432968/AndroidManifest.xml:2:1-9:12
-INJECTED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/debug/AndroidManifest.xml:2:1-7:12
-INJECTED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/debug/AndroidManifest.xml:2:1-7:12
-INJECTED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/debug/AndroidManifest.xml:2:1-7:12
+INJECTED from /home/hiveforensics/captain-cash-master/android/app/src/debug/AndroidManifest.xml:2:1-7:12
+INJECTED from /home/hiveforensics/captain-cash-master/android/app/src/debug/AndroidManifest.xml:2:1-7:12
+INJECTED from /home/hiveforensics/captain-cash-master/android/app/src/debug/AndroidManifest.xml:2:1-7:12
 	package
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:3:5-30
-		INJECTED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:3:5-30
-		INJECTED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/debug/AndroidManifest.xml
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /home/hiveforensics/captain-cash-master/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:1:1-61:12
-		INJECTED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:1:1-61:12
+		INJECTED from /home/hiveforensics/captain-cash-master/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:2:5-51
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:2:5-51
 	android:versionCode
-		INJECTED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:1:1-61:12
-		INJECTED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:1:1-61:12
+		INJECTED from /home/hiveforensics/captain-cash-master/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:5:5-67
-MERGED from [:react-native-firebase] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
-MERGED from [:react-native-firebase] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [:react-native-firebase] /home/hiveforensics/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase] /home/hiveforensics/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/2058299093429e37f0b27e78d017c3ae/AndroidManifest.xml:14:5-67
 MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/2058299093429e37f0b27e78d017c3ae/AndroidManifest.xml:14:5-67
 MERGED from [com.google.firebase:firebase-functions:17.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/46951ecb64e94d6d5a5a2726d956a90b/AndroidManifest.xml:12:5-67
@@ -133,59 +133,59 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /home
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/dfbabe2a3123ad3a569c3f8102a3071b/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/dfbabe2a3123ad3a569c3f8102a3071b/AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.CAMERA
-ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:6:5-65
+ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:6:5-65
 	android:name
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:6:22-62
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:6:22-62
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:7:5-80
-MERGED from [:react-native-image-crop-picker] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
-MERGED from [:react-native-image-crop-picker] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:7:5-80
+MERGED from [:react-native-image-crop-picker] /home/hiveforensics/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-image-crop-picker] /home/hiveforensics/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
 	android:name
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:7:22-78
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:7:22-78
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:8:5-81
+ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:8:5-81
 	android:name
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:8:22-78
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:8:22-78
 uses-permission#android.permission.VIBRATE
-ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:9:5-66
-MERGED from [:react-native-interactable] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-interactable/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-66
-MERGED from [:react-native-interactable] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-interactable/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-66
+ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:9:5-66
+MERGED from [:react-native-interactable] /home/hiveforensics/captain-cash-master/node_modules/react-native-interactable/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-66
+MERGED from [:react-native-interactable] /home/hiveforensics/captain-cash-master/node_modules/react-native-interactable/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-66
 	android:name
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:9:22-63
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:9:22-63
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:10:5-79
-MERGED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:10:5-79
-MERGED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:10:5-79
+ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:10:5-79
+MERGED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:10:5-79
+MERGED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:10:5-79
 	android:name
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:10:22-76
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:10:22-76
 uses-feature#android.hardware.camera
-ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:11:5-85
+ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:11:5-85
 	android:required
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:11:58-82
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:11:58-82
 	android:name
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:11:19-57
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:11:19-57
 uses-feature#android.hardware.camera.front
-ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:12:5-91
+ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:12:5-91
 	android:required
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:12:64-88
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:12:64-88
 	android:name
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:12:19-63
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:12:19-63
 application
-ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:14:5-59:19
-MERGED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:14:5-59:19
-MERGED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:14:5-59:19
-MERGED from [:react-native-firebase] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
-MERGED from [:react-native-firebase] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
-MERGED from [:react-native-interactable] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-interactable/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-16:19
-MERGED from [:react-native-interactable] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-interactable/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-16:19
-MERGED from [:react-native-splash-screen] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
-MERGED from [:react-native-splash-screen] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
-MERGED from [:react-native-image-crop-picker] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-26:19
-MERGED from [:react-native-image-crop-picker] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-26:19
-MERGED from [com.facebook.react:react-native:0.61.4] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/25e4fad9f2ec7620ec6d403e0e1f2d28/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.61.4] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/25e4fad9f2ec7620ec6d403e0e1f2d28/AndroidManifest.xml:11:5-20
+ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:14:5-59:19
+MERGED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:14:5-59:19
+MERGED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:14:5-59:19
+MERGED from [:react-native-firebase] /home/hiveforensics/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
+MERGED from [:react-native-firebase] /home/hiveforensics/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
+MERGED from [:react-native-interactable] /home/hiveforensics/captain-cash-master/node_modules/react-native-interactable/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-16:19
+MERGED from [:react-native-interactable] /home/hiveforensics/captain-cash-master/node_modules/react-native-interactable/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-16:19
+MERGED from [:react-native-splash-screen] /home/hiveforensics/captain-cash-master/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /home/hiveforensics/captain-cash-master/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-image-crop-picker] /home/hiveforensics/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-image-crop-picker] /home/hiveforensics/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-26:19
+MERGED from [com.facebook.react:react-native:0.61.4] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/42ed0d88350cfee9037bba11098b6e47/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.4] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/42ed0d88350cfee9037bba11098b6e47/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.android:facebook-login:5.15.3] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/0dbeb45fa63ed416d6f181304c6cc951/AndroidManifest.xml:28:5-29:19
 MERGED from [com.facebook.android:facebook-login:5.15.3] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/0dbeb45fa63ed416d6f181304c6cc951/AndroidManifest.xml:28:5-29:19
 MERGED from [com.facebook.android:facebook-share:5.15.3] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/907bb1865739b97b8e657efeae9ca762/AndroidManifest.xml:28:5-29:19
@@ -259,139 +259,139 @@ MERGED from [com.android.installreferrer:installreferrer:1.0] /home/hiveforensic
 	android:supportsRtl
 		ADDED from [com.facebook.android:facebook-login:5.15.3] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/0dbeb45fa63ed416d6f181304c6cc951/AndroidManifest.xml:28:18-44
 	android:label
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:16:7-39
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:16:7-39
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:16:7-39
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:16:7-39
 	tools:ignore
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/debug/AndroidManifest.xml:6:75-114
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/debug/AndroidManifest.xml:6:75-114
 	tools:targetApi
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/debug/AndroidManifest.xml:6:54-74
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/debug/AndroidManifest.xml:6:54-74
 	android:icon
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:17:7-41
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:17:7-41
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:17:7-41
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:17:7-41
 	android:allowBackup
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:18:7-34
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:18:7-34
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:18:7-34
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:18:7-34
 	android:theme
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:19:7-38
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:19:7-38
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:19:7-38
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:19:7-38
 	android:usesCleartextTraffic
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/debug/AndroidManifest.xml:6:18-53
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/debug/AndroidManifest.xml:6:18-53
 	android:name
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:15:7-38
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:15:7-38
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:15:7-38
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:15:7-38
 meta-data#com.google.android.geo.API_KEY
-ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:20:7-22:66
+ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:20:7-22:66
 	android:value
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:22:9-64
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:22:9-64
 	android:name
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:21:9-54
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:21:9-54
 activity#com.captaincash.MainActivity
-ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:23:7-33:18
+ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:23:7-33:18
 	android:label
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:25:9-41
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:25:9-41
 	android:launchMode
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:28:9-39
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:28:9-39
 	android:windowSoftInputMode
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:27:9-51
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:27:9-51
 	android:configChanges
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:26:9-79
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:26:9-79
 	android:name
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:24:9-37
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:24:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:29:9-32:25
+ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:29:9-32:25
 action#android.intent.action.MAIN
-ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:30:13-65
+ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:30:13-65
 	android:name
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:30:21-62
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:30:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:31:13-73
+ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:31:13-73
 	android:name
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:31:23-70
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:31:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:34:7-84
+ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:34:7-84
 	android:name
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:34:17-81
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:34:17-81
 activity#com.facebook.FacebookActivity
-ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:35:7-39:78
+ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:35:7-39:78
 MERGED from [com.facebook.android:facebook-common:5.15.3] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/25d95916c11ccf1e271eb106bb4a8179/AndroidManifest.xml:30:9-33:66
 MERGED from [com.facebook.android:facebook-common:5.15.3] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/25d95916c11ccf1e271eb106bb4a8179/AndroidManifest.xml:30:9-33:66
 	android:label
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:38:17-49
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:38:17-49
 	android:configChanges
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:37:17-100
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:37:17-100
 	android:theme
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:39:17-76
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:39:17-76
 		REJECTED from [com.facebook.android:facebook-common:5.15.3] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/25d95916c11ccf1e271eb106bb4a8179/AndroidManifest.xml:33:13-63
 	tools:replace
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:35:17-46
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:35:17-46
 	android:name
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:36:17-61
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:36:17-61
 activity#com.facebook.CustomTabActivity
-ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:40:7-49:18
+ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:40:7-49:18
 MERGED from [com.facebook.android:facebook-common:5.15.3] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/25d95916c11ccf1e271eb106bb4a8179/AndroidManifest.xml:35:9-49:20
 MERGED from [com.facebook.android:facebook-common:5.15.3] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/25d95916c11ccf1e271eb106bb4a8179/AndroidManifest.xml:35:9-49:20
 	tools:node
 		ADDED from [com.facebook.android:facebook-common:5.15.3] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/25d95916c11ccf1e271eb106bb4a8179/AndroidManifest.xml:38:13-31
 	android:exported
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:42:9-32
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:42:9-32
 	android:name
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:41:9-54
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:41:9-54
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/fb_login_protocol_scheme
-ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:43:9-48:25
+ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:43:9-48:25
 action#android.intent.action.VIEW
-ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:44:13-65
+ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:44:13-65
 	android:name
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:44:21-62
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:44:21-62
 category#android.intent.category.DEFAULT
-ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:45:13-72
+ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:45:13-72
 	android:name
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:45:23-69
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:45:23-69
 category#android.intent.category.BROWSABLE
-ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:46:13-74
+ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:46:13-74
 	android:name
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:46:23-71
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:46:23-71
 data
-ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:47:13-71
+ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:47:13-71
 	android:scheme
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:47:19-68
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:47:19-68
 service#io.invertase.firebase.messaging.RNFirebaseMessagingService
-ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:50:7-54:17
+ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:50:7-54:17
 	android:name
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:50:16-89
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:50:16-89
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:51:9-53:25
+ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:51:9-53:25
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:52:11-72
+ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:52:11-72
 	android:name
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:52:19-69
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:52:19-69
 meta-data#com.facebook.sdk.ApplicationId
-ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:55:7-57:52
+ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:55:7-57:52
 	android:value
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:57:17-50
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:57:17-50
 	android:name
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml:56:17-62
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml:56:17-62
 uses-sdk
-INJECTED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml
-INJECTED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml
-MERGED from [:react-native-firebase] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-firebase] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-interactable] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-interactable/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-interactable] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-interactable/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-fast-image] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-fast-image] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-splash-screen] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-splash-screen] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-community_geolocation] /home/hiveforensics/Downloads/captain-cash-master/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_geolocation] /home/hiveforensics/Downloads/captain-cash-master/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-fbsdk] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-26:41
-MERGED from [:react-native-fbsdk] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-26:41
-MERGED from [:react-native-image-crop-picker] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
-MERGED from [:react-native-image-crop-picker] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
-MERGED from [:react-native-vector-icons] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-vector-icons] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.61.4] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/25e4fad9f2ec7620ec6d403e0e1f2d28/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.61.4] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/25e4fad9f2ec7620ec6d403e0e1f2d28/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-firebase] /home/hiveforensics/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /home/hiveforensics/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-interactable] /home/hiveforensics/captain-cash-master/node_modules/react-native-interactable/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-interactable] /home/hiveforensics/captain-cash-master/node_modules/react-native-interactable/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fast-image] /home/hiveforensics/captain-cash-master/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fast-image] /home/hiveforensics/captain-cash-master/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /home/hiveforensics/captain-cash-master/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /home/hiveforensics/captain-cash-master/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_geolocation] /home/hiveforensics/captain-cash-master/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_geolocation] /home/hiveforensics/captain-cash-master/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fbsdk] /home/hiveforensics/captain-cash-master/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-fbsdk] /home/hiveforensics/captain-cash-master/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-image-crop-picker] /home/hiveforensics/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] /home/hiveforensics/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-vector-icons] /home/hiveforensics/captain-cash-master/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/hiveforensics/captain-cash-master/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.4] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/42ed0d88350cfee9037bba11098b6e47/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.4] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/42ed0d88350cfee9037bba11098b6e47/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.android:facebook-login:5.15.3] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/0dbeb45fa63ed416d6f181304c6cc951/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-login:5.15.3] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/0dbeb45fa63ed416d6f181304c6cc951/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-share:5.15.3] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/907bb1865739b97b8e657efeae9ca762/AndroidManifest.xml:24:5-26:41
@@ -430,8 +430,8 @@ MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/hiveforensi
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/35926ac475dd81cc5b85a94ab440af04/AndroidManifest.xml:20:5-44
 MERGED from [me.leolin:ShortcutBadger:1.1.21] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/4349c77f0e4d7ad14b8efc1f6a5e13e8/AndroidManifest.xml:7:5-9:41
 MERGED from [me.leolin:ShortcutBadger:1.1.21] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/4349c77f0e4d7ad14b8efc1f6a5e13e8/AndroidManifest.xml:7:5-9:41
-MERGED from [org.webkit:android-jsc:r245459] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/d19a9d63c5c05364708d08e24f516fde/AndroidManifest.xml:7:5-9:41
-MERGED from [org.webkit:android-jsc:r245459] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/d19a9d63c5c05364708d08e24f516fde/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/909b2e58b2efbb8d1b86f1b27776fd90/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/909b2e58b2efbb8d1b86f1b27776fd90/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/bc1840914329ffefcbe8dc562a240df7/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/bc1840914329ffefcbe8dc562a240df7/AndroidManifest.xml:20:5-44
 MERGED from [androidx.multidex:multidex:2.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/b9414536de47ecc6d8a3568069c35170/AndroidManifest.xml:20:5-43
@@ -548,20 +548,20 @@ MERGED from [com.android.installreferrer:installreferrer:1.0] /home/hiveforensic
 MERGED from [com.android.installreferrer:installreferrer:1.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/de0ba5442224a759ddb8933c9e022a8b/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/abde4ae9409f6b487c87878eca432968/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/abde4ae9409f6b487c87878eca432968/AndroidManifest.xml:5:5-7:41
-INJECTED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/debug/AndroidManifest.xml
-INJECTED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/hiveforensics/captain-cash-master/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/hiveforensics/captain-cash-master/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hiveforensics/captain-cash-master/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/hiveforensics/captain-cash-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hiveforensics/captain-cash-master/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/debug/AndroidManifest.xml:5:5-77
+ADDED from /home/hiveforensics/captain-cash-master/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
-		ADDED from /home/hiveforensics/Downloads/captain-cash-master/android/app/src/debug/AndroidManifest.xml:5:22-75
+		ADDED from /home/hiveforensics/captain-cash-master/android/app/src/debug/AndroidManifest.xml:5:22-75
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [:react-native-firebase] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+ADDED from [:react-native-firebase] /home/hiveforensics/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
 MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/eee95fa8e8245f45019fcbb1eb160429/AndroidManifest.xml:24:5-68
 MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/eee95fa8e8245f45019fcbb1eb160429/AndroidManifest.xml:24:5-68
 MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/9c4fef2dd71c2d61e12355ed448f604a/AndroidManifest.xml:24:5-68
@@ -573,9 +573,9 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /home
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/dfbabe2a3123ad3a569c3f8102a3071b/AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/dfbabe2a3123ad3a569c3f8102a3071b/AndroidManifest.xml:25:5-68
 	android:name
-		ADDED from [:react-native-firebase] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
+		ADDED from [:react-native-firebase] /home/hiveforensics/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:react-native-firebase] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+ADDED from [:react-native-firebase] /home/hiveforensics/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
 MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/2058299093429e37f0b27e78d017c3ae/AndroidManifest.xml:13:5-79
 MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/2058299093429e37f0b27e78d017c3ae/AndroidManifest.xml:13:5-79
 MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/c70b83c5177bb5b209957a8b98fce2d3/AndroidManifest.xml:26:5-79
@@ -593,9 +593,9 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /h
 MERGED from [io.grpc:grpc-android:1.16.1] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/7d227081f09a3ffa394cdecc894d6cb2/AndroidManifest.xml:11:5-79
 MERGED from [io.grpc:grpc-android:1.16.1] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/7d227081f09a3ffa394cdecc894d6cb2/AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from [:react-native-firebase] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
+		ADDED from [:react-native-firebase] /home/hiveforensics/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:react-native-firebase] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:19
+ADDED from [:react-native-firebase] /home/hiveforensics/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:19
 MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/9fd866392ce07648fa9ce5d3d63a50a9/AndroidManifest.xml:33:9-39:19
 MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/9fd866392ce07648fa9ce5d3d63a50a9/AndroidManifest.xml:33:9-39:19
 MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/2058299093429e37f0b27e78d017c3ae/AndroidManifest.xml:17:9-21:19
@@ -611,35 +611,35 @@ MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/hiveforensics/.gradl
 	android:exported
 		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/9fd866392ce07648fa9ce5d3d63a50a9/AndroidManifest.xml:35:13-37
 	android:name
-		ADDED from [:react-native-firebase] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-89
+		ADDED from [:react-native-firebase] /home/hiveforensics/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-89
 meta-data#com.google.firebase.components:io.invertase.firebase.ReactNativeFirebaseAppRegistrar
-ADDED from [:react-native-firebase] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:85
+ADDED from [:react-native-firebase] /home/hiveforensics/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:85
 	android:value
-		ADDED from [:react-native-firebase] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-82
+		ADDED from [:react-native-firebase] /home/hiveforensics/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-82
 	android:name
-		ADDED from [:react-native-firebase] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-116
+		ADDED from [:react-native-firebase] /home/hiveforensics/captain-cash-master/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-116
 provider#androidx.core.content.FileProvider
-ADDED from [:react-native-image-crop-picker] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-21:20
+ADDED from [:react-native-image-crop-picker] /home/hiveforensics/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-21:20
 	android:grantUriPermissions
-		ADDED from [:react-native-image-crop-picker] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-47
+		ADDED from [:react-native-image-crop-picker] /home/hiveforensics/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-47
 	android:authorities
-		ADDED from [:react-native-image-crop-picker] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-60
+		ADDED from [:react-native-image-crop-picker] /home/hiveforensics/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-60
 	android:exported
-		ADDED from [:react-native-image-crop-picker] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-37
+		ADDED from [:react-native-image-crop-picker] /home/hiveforensics/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-37
 	android:name
-		ADDED from [:react-native-image-crop-picker] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-62
+		ADDED from [:react-native-image-crop-picker] /home/hiveforensics/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-62
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:react-native-image-crop-picker] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-20:58
+ADDED from [:react-native-image-crop-picker] /home/hiveforensics/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-20:58
 	android:resource
-		ADDED from [:react-native-image-crop-picker] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:17-55
+		ADDED from [:react-native-image-crop-picker] /home/hiveforensics/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:17-55
 	android:name
-		ADDED from [:react-native-image-crop-picker] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
+		ADDED from [:react-native-image-crop-picker] /home/hiveforensics/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
 activity#com.yalantis.ucrop.UCropActivity
-ADDED from [:react-native-image-crop-picker] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-25:72
+ADDED from [:react-native-image-crop-picker] /home/hiveforensics/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-25:72
 	android:theme
-		ADDED from [:react-native-image-crop-picker] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-69
+		ADDED from [:react-native-image-crop-picker] /home/hiveforensics/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-69
 	android:name
-		ADDED from [:react-native-image-crop-picker] /home/hiveforensics/Downloads/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-60
+		ADDED from [:react-native-image-crop-picker] /home/hiveforensics/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-60
 activity#com.facebook.CustomTabMainActivity
 ADDED from [com.facebook.android:facebook-common:5.15.3] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/25d95916c11ccf1e271eb106bb4a8179/AndroidManifest.xml:34:9-71
 	android:name

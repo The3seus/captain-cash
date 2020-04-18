@@ -11,20 +11,20 @@ const flowData = {
   screens: [
     {
       icon: "fire-icon.png",
-      title: "Get a Date",
+      title: "I am a",
       description:
-        "Swipe right to get a match with people you like from your area."
+        "Man or Women"
     },
     {
       icon: "chat-icon.png",
-      title: "Private Messages",
-      description: "Chat privately with people you match."
+      title: "I want to meet",
+      description: "Women, Men or Both"
     },
     {
-      icon: "instagram.png",
-      title: "Send Photos",
+      icon: "chat-icon.png",
+      title: "Im looking to meet someone that has",
       description:
-        "Have fun with your matches by sending photos and videos to each other."
+        "Looks, Wealth Or Both"
     },
     {
       icon: "notification.png",

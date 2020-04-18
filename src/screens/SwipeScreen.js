@@ -242,8 +242,8 @@ class SwipeScreen extends Component {
       const granted = await PermissionsAndroid.request(
         PermissionsAndroid.PERMISSIONS.ACCESS_FINE_LOCATION,
         {
-          title: "Instadating App",
-          message: "Instadating App wants to access your location "
+          title: "Captain Cash App",
+          message: "Captain Cash App wants to access your location "
         }
       );
 

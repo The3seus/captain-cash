@@ -195,7 +195,7 @@ class SettingScreen extends Component {
               </View>
               <View style={styles.contentView}>
                 <View style={styles.itemView}>
-                  <Text style={styles.text}>Show me on Instadating</Text>
+                  <Text style={styles.text}>Show me on Captain Cash</Text>
                   <Switch
                     value={this.props.appSettings.showMe}
                     onValueChange={value =>
@@ -333,7 +333,7 @@ class SettingScreen extends Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#efeff4"
+    backgroundColor: "#D4B44A"
   },
   navbar: {
     height: Platform.OS === "ios" ? 50 : 48,
@@ -374,7 +374,7 @@ const styles = StyleSheet.create({
     borderTopWidth: 1,
     borderBottomWidth: 1,
     borderColor: AppStyles.colorSet.hairlineColor,
-    backgroundColor: AppStyles.colorSet.mainThemeBackgroundColor
+    backgroundColor: "#D4B44A"
   },
   itemView: {
     width: "100%",

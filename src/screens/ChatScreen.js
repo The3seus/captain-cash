@@ -773,7 +773,7 @@ class ChatScreen extends Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#efeff4"
+    backgroundColor: "white"
   },
   navbar: {
     height: Platform.OS === "ios" ? 60 : 69,
@@ -803,7 +803,7 @@ const styles = StyleSheet.create({
   },
   itemContent: {
     padding: 10,
-    backgroundColor: AppStyles.colorSet.hairlineColor,
+    backgroundColor: "#9cf489",
     borderRadius: 10,
     maxWidth: "80%"
   },
@@ -903,11 +903,11 @@ const styles = StyleSheet.create({
     width: 20,
     height: 8,
     resizeMode: "stretch",
-    tintColor: AppStyles.colorSet.hairlineColor
+    tintColor: "#9cf489"
   },
   sendTextMessage: {
     fontSize: 16,
-    color: AppStyles.colorSet.mainThemeBackgroundColor
+    color: "white"
   },
   receiveTextMessage: {
     color: AppStyles.colorSet.mainTextColor,
