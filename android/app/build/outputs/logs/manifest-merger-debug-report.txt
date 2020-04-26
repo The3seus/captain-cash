@@ -13,7 +13,7 @@ MERGED from [:react-native-community_geolocation] /home/hiveforensics/captain-ca
 MERGED from [:react-native-fbsdk] /home/hiveforensics/captain-cash-master/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:1-28:12
 MERGED from [:react-native-image-crop-picker] /home/hiveforensics/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-28:12
 MERGED from [:react-native-vector-icons] /home/hiveforensics/captain-cash-master/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.react:react-native:0.61.4] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/42ed0d88350cfee9037bba11098b6e47/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.react:react-native:0.62.2] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/c10bc6d0f1896accecb493abdb98f86b/AndroidManifest.xml:2:1-13:12
 MERGED from [com.facebook.android:facebook-login:5.15.3] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/0dbeb45fa63ed416d6f181304c6cc951/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-share:5.15.3] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/907bb1865739b97b8e657efeae9ca762/AndroidManifest.xml:21:1-31:12
 MERGED from [com.github.yalantis:ucrop:2.2.2-native] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/b9ade840f7b6eccc863210d2e5d5490b/AndroidManifest.xml:2:1-11:12
@@ -89,9 +89,10 @@ MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/hiveforensics/.
 MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/ed522483da775677b23a48aa5a71107e/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/db6006da7a4f1841cd966e40ca7adda2/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/17ee0893d6c37fff63d8dd5ed3edbdcd/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.6.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/7d0e6a6131e5b6008ffe903d78156595/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.soloader:soloader:0.8.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/438076dd92f4c7f934347ab7ae538aaf/AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.installreferrer:installreferrer:1.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/de0ba5442224a759ddb8933c9e022a8b/AndroidManifest.xml:2:1-13:12
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/abde4ae9409f6b487c87878eca432968/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:annotation:0.8.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/719e3d0b071acfc2029c409dd417532d/AndroidManifest.xml:2:1-13:12
 INJECTED from /home/hiveforensics/captain-cash-master/android/app/src/debug/AndroidManifest.xml:2:1-7:12
 INJECTED from /home/hiveforensics/captain-cash-master/android/app/src/debug/AndroidManifest.xml:2:1-7:12
 INJECTED from /home/hiveforensics/captain-cash-master/android/app/src/debug/AndroidManifest.xml:2:1-7:12
@@ -184,8 +185,8 @@ MERGED from [:react-native-splash-screen] /home/hiveforensics/captain-cash-maste
 MERGED from [:react-native-splash-screen] /home/hiveforensics/captain-cash-master/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
 MERGED from [:react-native-image-crop-picker] /home/hiveforensics/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-26:19
 MERGED from [:react-native-image-crop-picker] /home/hiveforensics/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-26:19
-MERGED from [com.facebook.react:react-native:0.61.4] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/42ed0d88350cfee9037bba11098b6e47/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.61.4] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/42ed0d88350cfee9037bba11098b6e47/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.62.2] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/c10bc6d0f1896accecb493abdb98f86b/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.62.2] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/c10bc6d0f1896accecb493abdb98f86b/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.android:facebook-login:5.15.3] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/0dbeb45fa63ed416d6f181304c6cc951/AndroidManifest.xml:28:5-29:19
 MERGED from [com.facebook.android:facebook-login:5.15.3] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/0dbeb45fa63ed416d6f181304c6cc951/AndroidManifest.xml:28:5-29:19
 MERGED from [com.facebook.android:facebook-share:5.15.3] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/907bb1865739b97b8e657efeae9ca762/AndroidManifest.xml:28:5-29:19
@@ -250,10 +251,12 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/hivef
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/3073d15e16f0164905b77cb4673c7644/AndroidManifest.xml:22:5-23:19
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/9f203d2b3b6ec7e61409d124520c8cac/AndroidManifest.xml:9:5-20
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/9f203d2b3b6ec7e61409d124520c8cac/AndroidManifest.xml:9:5-20
-MERGED from [com.facebook.soloader:soloader:0.6.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/7d0e6a6131e5b6008ffe903d78156595/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.soloader:soloader:0.6.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/7d0e6a6131e5b6008ffe903d78156595/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/438076dd92f4c7f934347ab7ae538aaf/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/438076dd92f4c7f934347ab7ae538aaf/AndroidManifest.xml:11:5-20
 MERGED from [com.android.installreferrer:installreferrer:1.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/de0ba5442224a759ddb8933c9e022a8b/AndroidManifest.xml:11:5-20
 MERGED from [com.android.installreferrer:installreferrer:1.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/de0ba5442224a759ddb8933c9e022a8b/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/719e3d0b071acfc2029c409dd417532d/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/719e3d0b071acfc2029c409dd417532d/AndroidManifest.xml:11:5-20
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.1] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/da305c37b547249bf9af56cfbc410e7d/AndroidManifest.xml:22:18-86
 	android:supportsRtl
@@ -390,8 +393,8 @@ MERGED from [:react-native-image-crop-picker] /home/hiveforensics/captain-cash-m
 MERGED from [:react-native-image-crop-picker] /home/hiveforensics/captain-cash-master/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
 MERGED from [:react-native-vector-icons] /home/hiveforensics/captain-cash-master/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /home/hiveforensics/captain-cash-master/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.61.4] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/42ed0d88350cfee9037bba11098b6e47/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.61.4] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/42ed0d88350cfee9037bba11098b6e47/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/c10bc6d0f1896accecb493abdb98f86b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/c10bc6d0f1896accecb493abdb98f86b/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.android:facebook-login:5.15.3] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/0dbeb45fa63ed416d6f181304c6cc951/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-login:5.15.3] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/0dbeb45fa63ed416d6f181304c6cc951/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-share:5.15.3] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/907bb1865739b97b8e657efeae9ca762/AndroidManifest.xml:24:5-26:41
@@ -542,12 +545,14 @@ MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/hiveforensic
 MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/db6006da7a4f1841cd966e40ca7adda2/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/17ee0893d6c37fff63d8dd5ed3edbdcd/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/17ee0893d6c37fff63d8dd5ed3edbdcd/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.6.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/7d0e6a6131e5b6008ffe903d78156595/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.soloader:soloader:0.6.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/7d0e6a6131e5b6008ffe903d78156595/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/438076dd92f4c7f934347ab7ae538aaf/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/438076dd92f4c7f934347ab7ae538aaf/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.installreferrer:installreferrer:1.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/de0ba5442224a759ddb8933c9e022a8b/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.installreferrer:installreferrer:1.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/de0ba5442224a759ddb8933c9e022a8b/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/abde4ae9409f6b487c87878eca432968/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/abde4ae9409f6b487c87878eca432968/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:annotation:0.8.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/719e3d0b071acfc2029c409dd417532d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.0] /home/hiveforensics/.gradle/caches/transforms-2/files-2.1/719e3d0b071acfc2029c409dd417532d/AndroidManifest.xml:7:5-9:41
 INJECTED from /home/hiveforensics/captain-cash-master/android/app/src/debug/AndroidManifest.xml
 INJECTED from /home/hiveforensics/captain-cash-master/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
